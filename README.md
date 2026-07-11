@@ -75,19 +75,19 @@ This project is for educational/academic purposes only.
 ## Dashboard
 
   ## Excel  Insurance and Policy Dashboards
-     <img width="1242" height="701" alt="Screenshot 2026-07-09 212736" src="https://github.com/user-attachments/assets/08a36ee9-7e01-42c2-83ea-ec2150a875f8" />
-     <img width="1237" height="701" alt="Screenshot 2026-07-09 212819" src="https://github.com/user-attachments/assets/698541b5-420b-43ab-8c97-6fcf300a793d" />
+ <img width="1242" height="701" alt="Screenshot 2026-07-09 212736" src="https://github.com/user-attachments/assets/08a36ee9-7e01-42c2-83ea-ec2150a875f8" />
+ <img width="1237" height="701" alt="Screenshot 2026-07-09 212819" src="https://github.com/user-attachments/assets/698541b5-420b-43ab-8c97-6fcf300a793d" />
 
  ### SQL Queries
-        <img width="1601" height="647" alt="Screenshot 2026-07-09 214407" src="https://github.com/user-attachments/assets/331111a6-14c3-44c0-ada3-1efcd0450921" />
+  <img width="1601" height="647" alt="Screenshot 2026-07-09 214407" src="https://github.com/user-attachments/assets/331111a6-14c3-44c0-ada3-1efcd0450921" />
 
   ## Power BI  Insurance and Policy Dashboards 
-        <img width="1236" height="707" alt="Screenshot 2026-07-09 213013" src="https://github.com/user-attachments/assets/8c5305bb-2512-432a-8ed6-a5a441968552" />
-        <img width="1236" height="701" alt="Screenshot 2026-07-09 213043" src="https://github.com/user-attachments/assets/f64f4f38-0082-4632-a6a8-d5e24f349fac" />
+  <img width="1236" height="707" alt="Screenshot 2026-07-09 213013" src="https://github.com/user-attachments/assets/8c5305bb-2512-432a-8ed6-a5a441968552" />
+  <img width="1236" height="701" alt="Screenshot 2026-07-09 213043" src="https://github.com/user-attachments/assets/f64f4f38-0082-4632-a6a8-d5e24f349fac" />
 
   ## Tableau  Insurance and Policy Dashboards 
-         <img width="1237" height="693" alt="Screenshot 2026-07-09 212834" src="https://github.com/user-attachments/assets/896be139-3524-426b-af58-73a65c3263fa" />
-         <img width="1243" height="695" alt="Screenshot 2026-07-09 212929" src="https://github.com/user-attachments/assets/6bf5a80c-801c-46c0-af01-a8d453d44adc" />
+  <img width="1237" height="693" alt="Screenshot 2026-07-09 212834" src="https://github.com/user-attachments/assets/896be139-3524-426b-af58-73a65c3263fa" />
+ <img width="1243" height="695" alt="Screenshot 2026-07-09 212929" src="https://github.com/user-attachments/assets/6bf5a80c-801c-46c0-af01-a8d453d44adc" />
 
 
 
