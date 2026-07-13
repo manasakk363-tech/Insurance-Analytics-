@@ -1,4 +1,4 @@
-# Insurance Analytics Capstone Project
+# Insurance Analytics  Project
 
 ## 📌 Overview
 This project analyzes insurance policy, claims, brokerage, and customer data to uncover trends in policy performance, claim behavior, renewals, and revenue. It combines **SQL** for data modeling, **Excel** for exploratory analysis, and **Power BI** & **Tableau** for interactive dashboards.
@@ -65,12 +65,6 @@ The core dataset is built around a master SQL view (`insurance_master`) joining:
 - Top reasons for policy lapses
 - Claim settlement turnaround time
 - Revenue contribution by branch/executive
-
-## 👥 Team
-Group 6 – Insurance Analytics Capstone Project
-
-## 📄 License
-This project is for educational/academic purposes only.
 
 ## Dashboard
 
